@@ -1,0 +1,52 @@
+
+#wrapper{
+    background-color: lightblue;
+    
+    
+}
+body{
+    background-color: lightblue;
+}
+#head{
+    width: 100%;
+    text-align: center;
+}
+#mid{
+    margin-left: 24%;
+    margin-right: 24%;
+    
+    text-align: center;
+
+}
+
+button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+h1{
+font-size: 48px;
+
+}
+
+h2{
+font-size: 24px;
+text-align: left;
+}
+
+h3{
+    font-size: 18px;
+    text-align: left;
+}
+
+p{
+    text-align: left;
+}
+img{
+    max-height: 198px;
+    max-width: 357px;
+    text-align: center;
+    float: none;
+}
